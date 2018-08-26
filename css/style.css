@@ -1408,7 +1408,7 @@ body.offcanvas {
     width: 100%; } }
 
 .row-bottom-padded-lg {
-  padding-bottom: 3em; }
+  padding-bottom: 7em; }
   @media screen and (max-width: 768px) {
     .row-bottom-padded-lg {
       padding-bottom: 1em; } }
