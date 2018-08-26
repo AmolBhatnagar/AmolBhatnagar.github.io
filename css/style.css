@@ -213,7 +213,7 @@ figure {
         margin: 0;
         display: inline;
         list-style: none; }
-        #colorlib-aside .colorlib-footer ul li a {
+        #colorlib-aside .colorlib-footer ul li a:active {
           color: rgba(255, 255, 255, 0.3);
           padding: 4px; }
 
