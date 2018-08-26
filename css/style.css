@@ -106,7 +106,8 @@ figure {
     display: block;
     margin-bottom: 2em;
     font-size: 12px;
-    text-transform: uppercase; }
+    text-transform: uppercase;
+	white-space:nowrap;}
   #colorlib-aside .position1 {
     display: block;
     margin-bottom: 2em;
