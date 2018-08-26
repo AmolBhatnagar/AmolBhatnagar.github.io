@@ -495,9 +495,9 @@ body.offcanvas {
   line-height: 1;
   margin-top: -7px; }
 
-.panel-heading a.collapsed:after {
+/*.panel-heading a.collapsed:after {
   content: "\e114"; }
-
+*/
 .panel-heading a.collapsed {
   background: #f2f3f7;
   border: 1px solid #e6e6e6 !important;
