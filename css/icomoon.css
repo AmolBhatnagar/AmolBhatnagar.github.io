@@ -1788,4 +1788,15 @@
 .icon-IcoMoon:before {
   content: "\eb1a";
 }
-
+.icon-mail:before {
+    content: "\ea83";
+}
+.icon-mail2:before {
+    content: "\ea84";
+}
+.icon-mail3:before {
+    content: "\ea85";
+}
+.icon-mail4:before {
+    content: "\ea86";
+}
